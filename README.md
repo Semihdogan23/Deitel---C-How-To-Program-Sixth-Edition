@@ -31,17 +31,17 @@ Bu projeyi yerel makinenizde çalıştırmak için bir C derleyicisine (tercihen
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [GitHub Depo Adresiniz]
+    git clone https://github.com/Semihdogan23/Deitel---C-How-To-Program-Sixth-Edition.git
     ```
 
 2.  **İlgili Klasöre Gidin:**
     ```bash
-    cd [Depo Adı]/Chapter_XX_Bölüm_Adı
+    cd Deitel---C-How-To-Program-Sixth-Edition/Chapter_XX_Bölüm_Adı
     ```
 
 3.  **Kodu Derleyin (GCC Örneği):**
     ```bash
-    gcc alistirma_adi.c -o alistirma_adi
+    gcc alistirma_adi.cpp -o alistirma_adi
     ```
 
 4.  **Programı Çalıştırın:**
@@ -63,7 +63,7 @@ Projeye katkıda bulunmaktan mutluluk duyarım! Eğer bir hata bulursanız, daha
 
 1.  Bu depoyu **Fork** edin.
 2.  Değişikliklerinizi içeren yeni bir **Branch** oluşturun (`git checkout -b harika-cozum`).
-3.  Değişikliklerinizi **Commit** edin (`git commit -m 'Chapter 5, Alıştırma 5.25 için daha iyi çözüm'`).
+3.  Değişikliklerinizi **Commit** edin (`git commit -m 'Chapter x, Alıştırma x.yy için daha iyi çözüm'`).
 4.  Branch'inizi **Push** edin (`git push origin harika-cozum`).
 5.  Bir **Pull Request** açın.
 
@@ -77,5 +77,5 @@ Bu proje, herhangi bir lisansla açıkça belirtilmediği sürece, **Eğitim Ama
 
 ## 👤 İletişim
 
-* **GitHub:** [@KullanıcıAdınız](https://github.com/KullanıcıAdınız)
-* **İletişim:** [E-posta Adresiniz]
+* **GitHub:** [@Semihdogan23](https://github.com/Semihdogan23)
+* **İletişim:** dogansemih311@gmail.com
