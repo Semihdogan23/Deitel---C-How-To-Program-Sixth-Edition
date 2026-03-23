@@ -78,4 +78,4 @@ Bu proje, herhangi bir lisansla açıkça belirtilmediği sürece, **Eğitim Ama
 ## 👤 İletişim
 
 * **GitHub:** [@Semihdogan23](https://github.com/Semihdogan23)
-* **İletişim:** dogansemih311@gmail.com
+* **İletişim:** smhdgn30@hotmail.com
